@@ -1,3 +1,5 @@
+html
+
 # quatre_fantastiques
 jeu html pour un cours
 C’est un chat. Un chat affamé. Depuis trois jours, il n’a rien mangé.
