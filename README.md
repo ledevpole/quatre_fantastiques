@@ -17,3 +17,21 @@ ciel de mille feux
 
 Si entrer dans le château ->
 A l'entrée du château, un garde apparaît, qu'il faut contourner ??? (pas de fantaisie)
+### choix
+    -
+    -
+    -
+
+Si mettre à courir ->
+Une horde de guerriers sanginaires surgit depuis le chateau et commence à les poursuivre.
+### choix
+    -
+    -
+    -
+
+Si Téléportation ->
+Soudain le toit s'écroule et les 4 compagnions se retrouve dans une salle obscure.
+### choix
+    -
+    -
+    -
