@@ -6,7 +6,7 @@ balladaient dans la campagne charantaise. Soudain, il se produisit quelque
 chose de formibable, une explosion au loin se fit d'abord voir, illuminant le
 ciel de mille feux
 
-"J'ai essayé une fois de comprendre git dans AFORP" dit le géant.
+"Vous voyez une éclipse dans le ciel, un formidable symbole d'alarme", a déclaré le géant.
 
 "vraiment?" répondit le loup-garou. Un chateau apparu soudain devant eux.
 
@@ -15,3 +15,5 @@ ciel de mille feux
     - se mettre à courir
     - Le vampire teléporte tout le monde au sommet du donjon
 
+Si entrer dans le château ->
+A l'entrée du château, un garde apparaît, qu'il faut contourner ??? (pas de fantaisie)
